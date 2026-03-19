@@ -1,0 +1,1 @@
+<footer className="mt-8 text-gray-700 bg-gray-100"></footer>
